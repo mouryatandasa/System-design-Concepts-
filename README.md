@@ -1,6 +1,6 @@
-# 🚀 Complete System Design Roadmap (Beginner → Advanced)
+#Complete System Design Roadmap
 
-## 📌 Introduction
+## Introduction
 
 Welcome to the **Complete System Design Roadmap**.
 
@@ -12,7 +12,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 1 – System Design Fundamentals
+# Phase 1 – System Design Fundamentals
 
 ## Module 1 – Introduction to System Design
 
@@ -57,7 +57,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 2 – Backend Infrastructure
+#  Phase 2 – Backend Infrastructure
 
 ## Module 4 – Reverse Proxy
 
@@ -100,7 +100,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 3 – Performance Optimization
+#  Phase 3 – Performance Optimization
 
 ## Module 7 – Caching
 
@@ -148,7 +148,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 4 – Database Systems
+#  Phase 4 – Database Systems
 
 ## Module 10 – SQL vs NoSQL
 
@@ -244,7 +244,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 5 – Distributed Systems
+#  Phase 5 – Distributed Systems
 
 ## Module 17 – Message Queues
 
@@ -290,7 +290,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 6 – Cloud & DevOps
+#  Phase 6 – Cloud & DevOps
 
 ## Module 21 – Docker
 
@@ -342,7 +342,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 7 – Security
+#  Phase 7 – Security
 
 ## Module 25 – Authentication
 
@@ -375,7 +375,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 8 – Monitoring & Observability
+#  Phase 8 – Monitoring & Observability
 
 ## Module 28
 
@@ -390,7 +390,7 @@ By the end of this roadmap, you'll understand how companies like **Netflix, Amaz
 
 ---
 
-# 📅 Phase 9 – System Design Projects
+#  Phase 9 – System Design Projects
 
 Design the following systems:
 
@@ -413,34 +413,7 @@ Design the following systems:
 
 ---
 
-# 📚 Prerequisites
-
-Before starting this roadmap, it's recommended to know:
-
-- Programming (Python/Java/C++)
-- Object-Oriented Programming
-- DBMS Basics
-- SQL
-- Computer Networks
-- Operating Systems
-- Linux Basics
-- Git & GitHub
-
----
-
-# 🎯 Outcome
-
-After completing this roadmap, you will be able to:
-
-- Design scalable backend systems.
-- Understand production-ready architectures.
-- Explain design trade-offs confidently.
-- Crack Backend, SDE, and System Design interviews.
-- Build production-grade applications using industry best practices.
-
----
-
-# ⭐ Recommended Learning Approach
+#  Recommended Learning Approach
 
 For every topic:
 
@@ -455,7 +428,7 @@ For every topic:
 
 ---
 
-## 💡 Final Note
+##  Final Note
 
 System Design is **not about memorizing architectures**.
 
